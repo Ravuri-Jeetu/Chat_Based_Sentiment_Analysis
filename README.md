@@ -8,29 +8,6 @@ Here a labelled dataset is typically used in which there are two columns known a
 •
 Dataset: “DATASET.csv” or similar names.
 o
-Sample from dataset:
-TEXT
-REACTION
-Good morning! ðŸOEž
-positive
-Thanks a lot! ðŸ™
-positive
-Thank you so much. ðŸ˜Š
-negative
-Stop it ðŸ˜
-negative
-Ugh, not again. ðŸ™„
-negative
-What nonsense. ðŸ˜’
-negative
-Hell no. ðŸ˜‘
-negative
-Hello
-neutral
-Hi ðŸ™‚
-neutral
-Hey
-neutral
 •
 Dataset size: 6000+ rows.
 •
