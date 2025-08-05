@@ -92,7 +92,7 @@ This repository contains a Jupyter Notebook implementation for analyzing sentime
 
 ## 📬 Contact
 
-For issues, suggestions, or collaboration, open an issue or email me at [your.email@example.com](ravurijeetendra2006@gmail.com).
+For issues, suggestions, or collaboration, open an issue or email me at [ravurijeetendra2006@gmail.com](ravurijeetendra2006@gmail.com).
 
 ---
 
