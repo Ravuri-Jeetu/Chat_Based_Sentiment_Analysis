@@ -48,7 +48,6 @@ This repository contains a Jupyter Notebook implementation for analyzing sentime
 ├── data/               # Sample datasets
 ├── notebooks/          # Jupyter Notebooks
 ├── models/             # Saved models
-├── utils/              # Helper scripts
 └── README.md           # Project documentation
 ```
 
@@ -76,11 +75,12 @@ This repository contains a Jupyter Notebook implementation for analyzing sentime
 
 ## 📊 Results
 
-| Model              | Accuracy | F1 Score |
-|--------------------|----------|----------|
-| Logistic Regression| 85%      | 0.84     |
-| LSTM               | 89%      | 0.87     |
-| BERT               | 92%      | 0.90     |
+| Model                | Accuracy | F1 Score |
+|----------------------|----------|----------|
+| Logistic Regression  | 85%      | 0.84     |
+| LSTM                 | 89%      | 0.87     |
+| BERT                 | 92%      | 0.90     |
+| XGBoost(this project)| 77%      | 0.77     |
 
 ---
 
